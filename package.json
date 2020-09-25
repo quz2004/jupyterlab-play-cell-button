@@ -1,5 +1,5 @@
 {
-  "name": "jupyterlab-play-cell-button",
+  "name": "@epi2melabs/jupyterlab-play-cell-button",
   "version": "0.1.0",
   "description": "Adds a play button to cells in jupyterlab",
   "keywords": [
