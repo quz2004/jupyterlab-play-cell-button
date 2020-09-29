@@ -1,7 +1,5 @@
 # jupyterlab-play-cell-button
 
-![Github Actions Status](https://github.com/epi2me-labs/jupyterlab-play-cell-button/workflows/Build/badge.svg)
-
 Adds a play button to cells in jupyterlab
 
 
@@ -13,7 +11,7 @@ Adds a play button to cells in jupyterlab
 ## Install
 
 ```bash
-jupyter labextension install  @epi2melabs/jupyterlab-play-cell-button
+jupyter labextension install @epi2melabs/jupyterlab-play-cell-button
 ```
 
 ## Contributing
