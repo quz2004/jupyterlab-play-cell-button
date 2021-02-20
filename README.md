@@ -2,7 +2,6 @@
 
 forked from epi2me-labs/jupyterlab-play-cell-button
 
-Modify for Jupyter Lab v >= 3.0
 
 Adds a play button to cells in jupyterlab
 
